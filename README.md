@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Data Analyst currently part of the COEP team at NYU Langone
+
 <!--
 **rafaelcharris/rafaelcharris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
